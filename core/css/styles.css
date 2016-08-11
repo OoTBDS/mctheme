@@ -202,19 +202,19 @@ textarea:disabled {
 
 /* Primary action button, use sparingly */
 .primary, input[type="submit"].primary, input[type="button"].primary, button.primary, .button.primary {
-	border: 1px solid #2ca01c;
-	background-color: #2ca01c;
+	border: 1px solid #385fc9;
+	background-color: #385fc9;
 	color: #fff;
 }
 	.primary:hover, input[type="submit"].primary:hover, input[type="button"].primary:hover, button.primary:hover, .button.primary:hover,
 	.primary:focus, input[type="submit"].primary:focus, input[type="button"].primary:focus, button.primary:focus, .button.primary:focus {
-		border: 1px solid #2ca01c;
-		background-color: #2ca01c;
+		border: 1px solid #385fc9;
+		background-color: #385fc9;
 		color: #fff;
 	}
 	.primary:active, input[type="submit"].primary:active, input[type="button"].primary:active, button.primary:active, .button.primary:active {
-		border: 1px solid #2ca01c;
-		background-color: #2ca01c;
+		border: 1px solid #385fc9;
+		background-color: #385fc9;
 		color: #fff;
 	}
 

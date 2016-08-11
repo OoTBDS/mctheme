@@ -10,7 +10,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getBaseUrl() {
-		return 'http://www.quickbooks.co.za/';
+		return 'http://mikeyville.co.za/';
 	}
 	/**
 	 * Returns the URL where the sync clients are listed
@@ -18,7 +18,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getSyncClientUrl() {
-		return 'http://www.quickbooks.co.za/';
+		return 'http://mikeyville.co.za/';
 	}
 	/**
 	 * Returns the URL to the App Store for the iOS Client
@@ -42,7 +42,7 @@ class OC_Theme {
 	 * @return string URL
 	 */
 	public function getDocBaseUrl() {
-		return 'http://www.quickbooks.co.za/';
+		return 'http://mikeyville.co.za/';
 	}
 	/**
 	 * Returns the title
@@ -50,7 +50,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getTitle() {
-		return 'Quickbooks Cloud';
+		return 'Mikey Cloud';
 	}
 	/**
 	 * Returns the short name of the software
@@ -58,7 +58,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getName() {
-		return 'Quickbooks Cloud';
+		return 'Mikey Cloud';
 	}
 	/**
 	 * Returns the short name of the software containing HTML strings
@@ -66,7 +66,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getHTMLName() {
-		return 'Quickbooks Cloud';
+		return 'Mikey Cloud';
 	}
 	/**
 	 * Returns entity (e.g. company name) - used for footer, copyright
@@ -74,7 +74,7 @@ class OC_Theme {
 	 * @return string entity name
 	 */
 	public function getEntity() {
-		return 'Quickbooks';
+		return 'MikeyVille';
 	}
 	/**
 	 * Returns slogan
@@ -82,7 +82,7 @@ class OC_Theme {
 	 * @return string slogan
 	 */
 	public function getSlogan() {
-		return $this->l->t('Cloud');;
+		return $this->l->t('Sustainable living');;
 	}
 	/**
 	 * Returns logo claim
